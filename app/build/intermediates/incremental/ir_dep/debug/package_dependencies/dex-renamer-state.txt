@@ -1,0 +1,7 @@
+#Sat Sep 07 14:28:55 PDT 2019
+base.0=/Users/jiayingluo/Downloads/Matrix3/app/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/jiayingluo/Downloads/Matrix3/app/build/intermediates/transforms/dexMerger/debug/10
